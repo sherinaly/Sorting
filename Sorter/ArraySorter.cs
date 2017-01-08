@@ -32,7 +32,7 @@ namespace Sorter
         /// <param name="numbers">The numbers.</param>
         /// <param name="idx1">The idx1.</param>
         /// <param name="idx2">The idx2.</param>
-        public static void Swap(int[] numbers, int idx1, int idx2)
+        private static void Swap(int[] numbers, int idx1, int idx2)
         {
             var tmp = numbers[idx1];
             numbers[idx1] = numbers[idx2];
