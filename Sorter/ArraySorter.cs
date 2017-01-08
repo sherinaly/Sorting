@@ -2,6 +2,9 @@ using System;
 
 namespace Sorter
 {
+    /// <summary>
+    /// Class ArraySorter that implemets BubbleS ort.
+    /// </summary>
     public class ArraySorter
     {
 
