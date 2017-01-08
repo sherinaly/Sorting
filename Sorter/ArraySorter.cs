@@ -3,7 +3,7 @@ using System;
 namespace Sorter
 {
     /// <summary>
-    /// Class ArraySorter that implemets BubbleS ort.
+    /// Class ArraySorter that implemets Bubble Sort.
     /// </summary>
     public class ArraySorter
     {
